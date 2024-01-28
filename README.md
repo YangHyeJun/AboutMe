@@ -1,4 +1,5 @@
-알고리즘 공부 기록 : https://hyejunboan.notion.site/06431a16ba37437caabec0e4588cdf25?pvs=4
+알고리즘 공부 기록 : https://hyejunboan.notion.site/hyejunboan/06431a16ba37437caabec0e4588cdf25
+
 <img width="1256" alt="스크린샷 2024-01-28 오전 2 43 02" src="https://github.com/YangHyeJun/AboutMe/assets/117815652/82d11ce7-3fd0-43f2-b899-ea08465b8866">
 <img width="1256" alt="스크린샷 2024-01-28 오전 2 44 07" src="https://github.com/YangHyeJun/AboutMe/assets/117815652/8eb5dfc5-f384-40f7-8be4-026aec61eb5e">
 <img width="1256" alt="스크린샷 2024-01-28 오전 2 45 23" src="https://github.com/YangHyeJun/AboutMe/assets/117815652/91e83051-5074-4a33-8011-cd2916a8402a">
